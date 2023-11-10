@@ -1,5 +1,4 @@
 # Artificial-Intelligence-Challenge
-Hồ Hữu Huy – 21020015– 21CSE, Challenge 1 Artificial Intelligence Submission
 
 **Challenge 1: Build a model with different classes from QuickDraw.io by Google and deploy the model onto a Flask website.**
 #### <a name="_eqtgir9o4ekz"></a>**1.             Evaluate the data**
@@ -269,4 +268,3 @@ if \_\_name\_\_ == '\_\_main\_\_':
 Below is the result of the entire process in this project with three classes: 
 
 
-Here is the link of Github: [Artificial Intelligence Challenge 1](https://github.com/HoHuuHuy285/Artificial-Intelligence-Challenge)
